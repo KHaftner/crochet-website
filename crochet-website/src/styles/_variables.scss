@@ -1,7 +1,50 @@
-/*------------------------------------------------------------------
+/*********************************************************************
+----------------------------------------------------------------------
     VARIABLES
-------------------------------------------------------------------*/
+----------------------------------------------------------------------
+*********************************************************************/
 
 @import url("https://fonts.googleapis.com/css2?family=Agdasima:wght@400;700&family=Arima:wght@100..700&family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap");
 
 /* Note: "EB Garamond" = 400 to 800 & italic, "Arima" = 100 to 700 & italic, "Agdasima" = 400 & 700 */
+
+/*--------------------------------------------------------------------
+    COLOUR SHADES
+--------------------------------------------------------------------*/
+
+/* Blue Shades */
+$blue-dark4: #152b31;
+$blue-dark3: #2a5663;
+$blue-dark2: #3e8094;
+$blue-dark1: #53abc6;
+$blue-main: #68d6f7;
+$blue-light1: #86def9;
+$blue-light2: #a4e6fa;
+$blue-light3: #c3effc;
+$blue-light4: #e1f7fd;
+
+/* Purple Shades*/
+$purple-dark4: #311631;
+$purple-dark3: #632c63;
+$purple-dark2: #944394;
+$purple-dark1: #c659c6;
+$purple-main: #f76ff7;
+$purple-light1: #f98cf9;
+$purple-light2: #faa9fa;
+$purple-light3: #fcc5fc;
+$purple-light4: #fde2fd;
+
+/* Pink Shades*/
+$pink-dark4: #321827;
+$pink-dark3: #65304e;
+$pink-dark2: #974976;
+$pink-dark1: #ca619d;
+$pink-main: #fc79c4;
+$pink-light1: #fd94d0;
+$pink-light2: #fdafdc;
+$pink-light3: #fec9e7;
+$pink-light4: #fee4f3;
+
+/* B & W */
+$white: #ffffff;
+$black: #000000;
