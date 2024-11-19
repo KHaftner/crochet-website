@@ -1,0 +1,11 @@
+Colours: Pink, Purple, Blue
+Desktop Navigation: Top bar above top banner/content
+Mobile Navigation: Top hamburger menu 
+Navigation: Fixed at top
+Top Banner Size: ~1/4 of Screen on Desktop
+Pages: "Main page (about me page/general), page showcasing finished projects and contact page. May add more later."
+Website Maintenance: By Kassie, no WordPress backend needed
+Font Preferences: Agdasima, Arima, Garamond
+Contact Links: Footer & Contact Page
+
+
